@@ -4,8 +4,7 @@ function [m, b, fv10K] = call_FVanalysis()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name - call_FVanalysis()
 % Creation Date - 31th May 2020
-% Author - Charles Belanger Nzakimuena
-% Website - https://www.ibis-space.com/
+% Author - C. M. Belanger Nzakimuena
 %
 % Description - Choriocapillaris flow voids analysis
 %
@@ -26,7 +25,7 @@ function [m, b, fv10K] = call_FVanalysis()
 % License - MIT
 %
 % Change History -
-%                   31th May 2020 - Creation by Charles Belanger Nzakimuena
+%                   31th May 2020 - Creation by C. M. Belanger Nzakimuena
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

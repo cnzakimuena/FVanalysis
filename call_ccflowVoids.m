@@ -4,8 +4,7 @@ function call_ccflowVoids()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name - ccflowVoids
 % Creation Date - 17th January 2021
-% Author - Charles Belanger Nzakimuena
-% Website - https://www.ibis-space.com/
+% Author - C. M. Belanger Nzakimuena
 %
 % Description - 
 %   ccflowVoids gives parameter values corresponding to ETDRS subfieds in 
@@ -17,7 +16,7 @@ function call_ccflowVoids()
 % License - MIT
 %
 % Change History -
-%                   17th January 2021 - Creation by Charles Belanger Nzakimuena
+%                   17th January 2021 - Creation by C. M. Belanger Nzakimuena
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
